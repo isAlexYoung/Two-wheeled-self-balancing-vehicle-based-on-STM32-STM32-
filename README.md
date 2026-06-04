@@ -1,5 +1,5 @@
 # BalancingCar 嵌入式项目
-<img width="1097" height="948" alt="28063a4f39f77d9037ab790ee8ca282f" src="https://github.com/user-attachments/assets/0dd60fa7-d05c-45e7-b789-ba4f02d57352" />
+<img width="640" height="480" alt="28063a4f39f77d9037ab790ee8ca282f" src="https://github.com/user-attachments/assets/0dd60fa7-d05c-45e7-b789-ba4f02d57352" />
 
 **平衡车** 是一个基于 STM32F103C8T6 的嵌入式开发项目，主要实现平衡静止，平衡遥控。
 
